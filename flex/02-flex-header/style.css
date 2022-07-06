@@ -34,13 +34,13 @@ a {
 }
 
 .left-links li {
-  display: inline-block;
+  display: inline-flex;
   align-items: flex-start;
   
 
 }
 
 .right-links li {
-  display: inline-block;
+  display: inline-flex;
   align-items: flex-end;
 }
