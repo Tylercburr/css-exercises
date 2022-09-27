@@ -5,7 +5,7 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  padding: 30px 10%;
+  
 }
 
 .logo {
@@ -20,7 +20,9 @@ ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   flex: 1;
-  display:  inline-block;
+  padding-inline-end: 8px;
+  padding-inline-start: 8px;
+
 
 }
 
@@ -43,4 +45,5 @@ a {
 .right-links li {
   display: inline-flex;
   align-items: flex-end;
+  justify-content: space-around;
 }
