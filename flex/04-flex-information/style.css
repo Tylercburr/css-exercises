@@ -46,8 +46,12 @@ img {
   background: #eee;
 }
 
-.text{
+.image{
   display: flex;
   justify-content: center;
+}
+
+.text{
+  display: flex;
   text-align: center;
 }
